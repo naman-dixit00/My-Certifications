@@ -1,1 +1,1 @@
-![My Events Background](Certification Banner.png)
+![My Certifications Background](Certification_Banner.png)
